@@ -9,3 +9,7 @@ Syarat sistem: Microsoft .Net 3.5. Monitor Antrian menggunakan modul [WPF transi
 ![antrian-crop](https://cloud.githubusercontent.com/assets/1911436/6884933/1cc40978-d609-11e4-9e5f-08b3abc252fe.jpg)
 
 Automatically exported from code.google.com/p/antrian
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/SamTheisens/antrian/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
